@@ -103,6 +103,9 @@
 .icon-fileText:before {
   content: "\e941";
 }
+.icon-filter:before {
+  content: "\e970"; /* Este es un ejemplo; asegúrate de usar el código correcto de IcoMoon */
+}
 .icon-new:before {
   content: "\e946";
 }
